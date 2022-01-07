@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
     backgroundColor: "aliceblue",
   },
   box: {
-    width: 50,
+    width: 60,
     height: 50,
   },
   row: {
